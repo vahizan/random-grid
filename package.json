@@ -9,8 +9,7 @@
     "dev": "preact watch",
     "lint": "eslint src",
     "test": "jest",
-    "start": "node index.js",
-    "heroku-postbuild": "npm run build"
+    "start": "node index.js"
   },
   "devDependencies": {
     "enzyme": "^3.10.0",
